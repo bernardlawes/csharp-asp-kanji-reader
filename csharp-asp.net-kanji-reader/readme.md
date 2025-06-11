@@ -87,15 +87,3 @@ The ASP.NET community
 
 
 Built with ❤️ by Bernard Lawes for fellow Japanese learners
-
-
-
----
-
-### ✅ Next Steps for You
-
-1. Save a screenshot (e.g., `wwwroot/images/preview.png`) and copy it to `docs/preview.png`.
-2. Push this `README.md` to the root of your repo.
-3. Replace `yourusername` in the clone URL with your actual GitHub username.
-
-Want me to generate a preview screenshot template (fake UI) or a stylish logo for the project?

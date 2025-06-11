@@ -11,8 +11,11 @@
 
 ## 🖼 Preview
 
-<div align="center">
-  <img src="docs/preview.png" alt="Kanji Reader Preview" width="600"/>
+<div align="left">
+  <img src="docs/preview.png" alt="Kanji Reader Preview" width="200"/>
+</div>
+<div align="left">
+  <img src="docs/screenshot.jpg" alt="Kanji Reader Preview" width="200"/>
 </div>
 
 

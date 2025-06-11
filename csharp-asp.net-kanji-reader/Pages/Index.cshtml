@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Japanese Reader";
+}
+
+<h2>Paste Japanese Text</h2>
+
+<form method="post">
+    <textarea name="InputText" rows="5" cols="50">@Model.InputText</textarea><br />
+    <button type="submit">Convert to Furigana</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.OutputHtml))
+{
+    <h3>With Furigana:</h3>
+    <div style="font-size: 1.5rem; line-height: 2.2rem;">
+        @Html.Raw(Model.OutputHtml)
+    </div>
+}

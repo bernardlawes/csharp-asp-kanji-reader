@@ -1,0 +1,101 @@
+﻿# Furigana Reader 🈶📖
+
+[![.NET](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-ASP.NET%20Core%20Razor%20Pages-lightgrey)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+**Furigana Reader** is a web-based kanji reading assistant built with C# and ASP.NET Core Razor Pages. Paste any Japanese text and instantly view it with **furigana annotations** (readings above the kanji), rendered using semantic HTML `<ruby>` tags.
+
+---
+
+## 🖼 Preview
+
+> 📸 *Screenshot Placeholder*  
+> Add a screenshot or GIF below (e.g. `/docs/preview.png`):
+
+![Preview](docs/preview.png)
+
+---
+
+## ✨ Features
+
+- 📝 Paste Japanese text to get furigana annotations
+- 🧠 Detects kanji using Unicode range (U+4E00–U+9FAF)
+- 📚 Uses `<ruby><rt></rt></ruby>` for native furigana rendering
+- ⚙️ Built in C# with ASP.NET Core Razor Pages
+- 🔐 Runs on `https://localhost` with dev cert
+
+---
+
+## 🔧 Tech Stack
+
+| Layer     | Technology                    |
+|-----------|-------------------------------|
+| Frontend  | Razor Pages, HTML5, CSS       |
+| Backend   | ASP.NET Core 8.0              |
+| Language  | C#, Regex, JMdict (planned)   |
+| Hosting   | Kestrel / IIS Express (local) |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [.NET SDK 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- Visual Studio 2022+ or VS Code
+
+### Run Locally
+
+```bash
+git clone https://github.com/bernardlawes/csharp-aspnet-kanji-reader.git
+cd furigana-reader
+dotnet run
+
+
+Then open:
+🌐 https://localhost:5001
+
+📅 Roadmap
+ Furigana rendering via Regex + <ruby>
+
+ JMdict-based reading lookup
+
+ Flashcard system with spaced repetition
+
+ Study decks (JLPT, radicals, custom)
+
+ Click-to-define popup modal
+
+ Export/import study history
+
+ Responsive design & dark mode
+
+ PWA/mobile app wrapper (later)
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+🙏 Acknowledgments
+EDRDG for the JMdict and Kanjidic datasets
+
+Unicode.org for kanji range references
+
+The ASP.NET community
+
+
+Built with ❤️ by Bernard Lawes for fellow Japanese learners
+
+
+
+---
+
+### ✅ Next Steps for You
+
+1. Save a screenshot (e.g., `wwwroot/images/preview.png`) and copy it to `docs/preview.png`.
+2. Push this `README.md` to the root of your repo.
+3. Replace `yourusername` in the clone URL with your actual GitHub username.
+
+Want me to generate a preview screenshot template (fake UI) or a stylish logo for the project?

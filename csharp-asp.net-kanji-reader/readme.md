@@ -11,10 +11,10 @@
 
 ## 🖼 Preview
 
-> 📸 *Screenshot Placeholder*  
-> Add a screenshot or GIF below (e.g. `/docs/preview.png`):
+<div align="center">
+  <img src="docs/preview.png" alt="Kanji Reader Preview" width="600"/>
+</div>
 
-![Preview](docs/preview.png)
 
 ---
 

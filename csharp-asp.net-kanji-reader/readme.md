@@ -15,7 +15,7 @@
   <img src="docs/preview.png" alt="Kanji Reader Preview" width="200"/>
 </div>
 <div align="left">
-  <img src="docs/screeenshot.jpg" alt="Kanji Reader Preview" width="200"/>
+  <img src="docs/screeenshot.jpg" alt="Kanji Reader Preview" width="600"/>
 </div>
 
 

@@ -12,10 +12,10 @@
 ## 🖼 Preview
 
 <div align="left">
-  <img src="docs/preview.png" alt="Kanji Reader Preview" width="200"/>
+  <img src="csharp-asp.net-kanji-reader/docs/preview.png" alt="Kanji Reader Preview" width="200"/>
 </div>
 <div align="left">
-  <img src="docs/screeenshot.jpg" alt="Kanji Reader Preview" width="600"/>
+  <img src="csharp-asp.net-kanji-reader/docs/screeenshot.jpg" alt="Kanji Reader Preview" width="600"/>
 </div>
 
 

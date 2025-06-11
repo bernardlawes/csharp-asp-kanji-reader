@@ -101,5 +101,5 @@ desktop.ini
 # Large Data File
 # =============================
 # Large dictionary files
-Data/JMdict.xml
-Data/JMdictCache.json
+csharp-asp.net-kanji-reader/Data/*.xml
+csharp-asp.net-kanji-reader/Data/*.json

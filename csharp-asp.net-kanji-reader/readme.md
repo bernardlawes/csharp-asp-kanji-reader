@@ -65,17 +65,6 @@ Then open:
 
  JMdict-based reading lookup
 
- Flashcard system with spaced repetition
-
- Study decks (JLPT, radicals, custom)
-
- Click-to-define popup modal
-
- Export/import study history
-
- Responsive design & dark mode
-
- PWA/mobile app wrapper (later)
 
 📄 License
 This project is licensed under the MIT License.

@@ -7,4 +7,10 @@
     <RootNamespace>csharp_asp.net_kanji_reader</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Data\JMdict.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

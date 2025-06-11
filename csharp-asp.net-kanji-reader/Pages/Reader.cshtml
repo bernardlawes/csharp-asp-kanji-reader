@@ -1,0 +1,22 @@
+﻿@page "/read"
+@model ReaderModel
+@{
+    ViewData["Title"] = "Kanji Reader";
+}
+
+<h2>Kanji Reader (Furigana)</h2>
+
+<form method="post">
+    <textarea name="InputText" rows="5" cols="50">@Model.InputText</textarea><br />
+    <button type="submit">Convert</button>
+</form>
+<br/>
+@if (!string.IsNullOrEmpty(Model.OutputHtml))
+{
+    <h3>Output with Furigana</h3>
+    <div class="furigana-output">
+        @Html.Raw(Model.OutputHtml)
+    </div>
+}
+
+

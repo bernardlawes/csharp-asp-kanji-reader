@@ -96,3 +96,10 @@ dist/
 Thumbs.db
 ehthumbs.db
 desktop.ini
+
+# =============================
+# Large Data File
+# =============================
+# Large dictionary files
+Data/JMdict.xml
+Data/JMdictCache.json

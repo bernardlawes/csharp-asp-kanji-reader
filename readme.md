@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/platform-ASP.NET%20Core%20Razor%20Pages-lightgrey)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 
-**Furigana Reader** is a web-based kanji reading assistant built with C# and ASP.NET Core Razor Pages. Paste any Japanese text and instantly view it with **furigana annotations** (readings above the kanji), rendered using semantic HTML `<ruby>` tags.
+**Kanji Reader** is a web-based kanji reading assistant built with C# and ASP.NET Core Razor Pages. Paste any Japanese text and instantly view it with **furigana annotations** (readings above the kanji), rendered using semantic HTML `<ruby>` tags.
 
 ---
 
